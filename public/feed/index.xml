@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>テスト記事4</title>
-		<link>/2022/11/test4/.html</link>
-					<comments>/2022/11/test4/.html#respond</comments>
+		<link>/test4/.html</link>
+					<comments>/test4/.html#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Thu, 10 Nov 2022 23:26:48 +0000</pubDate>
@@ -32,15 +32,15 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/2022/11/test4/.html/feed</wfw:commentRss>
+					<wfw:commentRss>/test4/.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>テスト記事3</title>
-		<link>/2022/11/test3/.html</link>
-					<comments>/2022/11/test3/.html#respond</comments>
+		<link>/test3/.html</link>
+					<comments>/test3/.html#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 08 Nov 2022 23:38:57 +0000</pubDate>
@@ -50,15 +50,15 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/2022/11/test3/.html/feed</wfw:commentRss>
+					<wfw:commentRss>/test3/.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>テスト記事2</title>
-		<link>/2022/11/test2/.html</link>
-					<comments>/2022/11/test2/.html#respond</comments>
+		<link>/test2/.html</link>
+					<comments>/test2/.html#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 08 Nov 2022 23:35:51 +0000</pubDate>
@@ -68,15 +68,15 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/2022/11/test2/.html/feed</wfw:commentRss>
+					<wfw:commentRss>/test2/.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>テスト記事1</title>
-		<link>/2022/11/test1/.html</link>
-					<comments>/2022/11/test1/.html#respond</comments>
+		<link>/test1/.html</link>
+					<comments>/test1/.html#respond</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Tue, 08 Nov 2022 23:34:18 +0000</pubDate>
@@ -86,28 +86,8 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/2022/11/test1/.html/feed</wfw:commentRss>
+					<wfw:commentRss>/test1/.html/feed</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hello world!</title>
-		<link>/2022/10/hello-world/.html</link>
-					<comments>/2022/10/hello-world/.html#comments</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Sat, 08 Oct 2022 00:49:29 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2022/10/hello-world/.html/feed</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
